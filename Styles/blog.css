@@ -1,5 +1,5 @@
 * {
-    margin: 30px auto;
+    margin: 20px auto;
 }
 
 .container {
@@ -76,7 +76,7 @@
 
 .second-container {
     display: flex;
-    width: 1360px;
+    width: 1320px;
     height: 600px;
     flex-shrink: 0;
     position: relative;
@@ -84,6 +84,10 @@
     color: white;
     background-color: rgba(7, 2, 17, 1), rgba(7, 2, 17, 0);
     font-family: Merriweather;
+}
+#time{
+    width: 1320px;
+    height: 600px;
 }
 .flex{
     width: 1420px;
@@ -194,11 +198,11 @@ line-height: normal;
     height: 60px;
     color: #070211;
 font-family: Merriweather;
-font-size: 48px;
+font-size: 55px;
 font-style: normal;
-font-weight: 900;
-line-height: normal;
-text-transform: capitalize;
+font-weight: 1100;
+/* line-height: normal; */
+/* text-transform: capitalize; */
 }
 #paragraph{
     padding:  20px 927px 0px 0px;
@@ -236,4 +240,62 @@ border-radius: 364.844px;
     width: 463px;
 height: 463px;
 flex-shrink: 0;
+}
+.twenty-four{
+    position: absolute;
+    font-size: 35px;
+    padding-top: 244px;
+    padding-left: 1050px;
+    color: #F00;
+    font-family: Inter;
+}
+.wind{
+    width: 400px;
+    position: absolute;
+    font-family: Inter;
+    padding-top: 304px;
+    padding-left: 1050px;
+}
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    padding-left: 1050px;
+    padding-top: 355px;
+}
+.fifth{
+    width: 1320px;
+    height: 600px;
+}
+.functional{
+    padding: 120px 0px 0px 560px; 
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.holidays{
+    padding:0px 0px 0px 400px ;
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+#tom{
+    color: #F00;
+}
+.dolor-sit{
+width: 1068px;
+height: 96px;
+color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 32px; /* 160% */
 }
