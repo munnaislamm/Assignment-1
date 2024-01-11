@@ -91,7 +91,7 @@
 #time {
     width: 1320px;
     height: 600px;
-   
+
 }
 
 .midnight {
@@ -458,36 +458,40 @@ a :hover {
     width: 210px;
     height: 72px;
 }
-.mobile{
+
+.mobile {
     color: #FFF;
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-text-transform: capitalize;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
 }
-.world{
+
+.world {
     width: 1600px;
-height: 609px;
-background: #070211;
+    height: 609px;
+    background: #070211;
 }
-.city{
+
+.city {
     position: absolute;
     padding-left: 149px;
     padding-top: 120px;
     width: 385px;
     height: 80px;
     color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: 40px; 
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
 }
-.pg{
-    padding-left:1114px ;
+
+.pg {
+    padding-left: 1114px;
     padding-top: 120px;
     position: absolute;
     width: 205px;
@@ -499,8 +503,9 @@ line-height: 40px;
     font-weight: 500;
     line-height: 40px;
 }
-.kd{
-    padding-left:1114px ;
+
+.kd {
+    padding-left: 1114px;
     padding-top: 184px;
     position: absolute;
     width: 211px;
@@ -510,45 +515,49 @@ line-height: 40px;
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
-    line-height: 40px; 
+    line-height: 40px;
 }
 
-.iron{
-padding-left: 1074px;
-padding-top: 128px;
+.iron {
+    padding-left: 1074px;
+    padding-top: 128px;
 }
-.gold{
+
+.gold {
     padding-left: 1074px;
 }
-.verb{
+
+.verb {
     padding-top: 60px;
-    padding-left:640px ;
+    padding-left: 640px;
     width: 64px;
-height: 64px;
+    height: 64px;
 }
-.gangstar{
+
+.gangstar {
     padding-top: 26px;
     padding-left: 140px;
     position: absolute;
     width: 305px;
     height: 29px;
     color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
-.monstar{
+
+.monstar {
     padding-top: 26px;
     padding-left: 1315px;
     position: absolute;
     width: 145px;
     height: 29px;
     color: #FFF;
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
