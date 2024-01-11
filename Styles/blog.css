@@ -8,8 +8,11 @@
     position: relative;
     text-align: center;
     color: white;
-    background-color: rgba(7, 2, 17, 1), rgba(7, 2, 17, 0);
     font-family: Merriweather;
+}
+
+.flex {
+    border-radius: 16px;
 }
 
 .happy {
@@ -82,17 +85,13 @@
     position: relative;
     text-align: center;
     color: white;
-    background-color: rgba(7, 2, 17, 1), rgba(7, 2, 17, 0);
     font-family: Merriweather;
 }
 
 #time {
     width: 1320px;
     height: 600px;
-}
-
-.flex {
-    width: 1420px;
+   
 }
 
 .midnight {
@@ -102,7 +101,6 @@
     color: #FFF;
     font-family: Merriweather;
     font-size: 64px;
-    /* font-style: normal; */
     font-weight: 900;
     line-height: 88px;
     letter-spacing: 7.04px;
@@ -208,8 +206,6 @@ a :hover {
     font-size: 55px;
     font-style: normal;
     font-weight: 1100;
-    /* line-height: normal; */
-    /* text-transform: capitalize; */
 }
 
 #paragraph {
@@ -222,7 +218,6 @@ a :hover {
     font-style: normal;
     font-weight: 400;
     line-height: 32px;
-    /* 160% */
 }
 
 #img-four {
@@ -351,11 +346,13 @@ a :hover {
     padding-top: 150px;
     padding-left: 790px;
 }
-.number-seven{
+
+.number-seven {
     width: 1320px;
     height: 1163px;
 }
-.mango{
+
+.mango {
 
     padding-top: 800px;
     color: #F00;
@@ -365,7 +362,8 @@ a :hover {
     font-weight: 500;
     line-height: normal;
 }
-.olive{
+
+.olive {
     color: #070211;
     font-family: Merriweather;
     font-size: 48px;
@@ -374,11 +372,183 @@ a :hover {
     line-height: normal;
     text-transform: capitalize;
 }
-.lemon{
+
+.lemon {
     position: absolute;
     height: 64px;
     width: 896px;
     font-size: 20px;
     color: rgba(7, 2, 17, 0.60);
     font-weight: 400;
+}
+
+.rec-one {
+    margin: 0px;
+    width: 424px;
+    height: 450px;
+    padding-top: 110px;
+    padding-left: 13px;
+}
+
+.rec-two {
+    width: 424px;
+    height: 450px;
+    padding-top: px;
+    padding-left: 13px
+}
+
+.water {
+    margin-top: 900px;
+    border: 0.5px solid white;
+    width: 1320px;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+
+.tigar {
+    padding-top: 80px;
+    padding-left: 585px;
+    width: 150px;
+    height: 150px;
+}
+
+.lion {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.cat {
+    width: 916px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.parrot {
+    margin-left: 336px;
+    margin-bottom: 80px;
+    width: 438px;
+    height: 72px;
+    border: 0.5px solid white;
+    border-radius: 50px 0px 0px 50px;
+    background: #FFF;
+}
+
+::placeholder {
+    padding-left: 30px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.riders {
+    border: 0.5px solid #F00;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 210px;
+    height: 72px;
+}
+.mobile{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+}
+.world{
+    width: 1600px;
+height: 609px;
+background: #070211;
+}
+.city{
+    position: absolute;
+    padding-left: 149px;
+    padding-top: 120px;
+    width: 385px;
+    height: 80px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; 
+}
+.pg{
+    padding-left:1114px ;
+    padding-top: 120px;
+    position: absolute;
+    width: 205px;
+    height: 40px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+}
+.kd{
+    padding-left:1114px ;
+    padding-top: 184px;
+    position: absolute;
+    width: 211px;
+    height: 40px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px; 
+}
+
+.iron{
+padding-left: 1074px;
+padding-top: 128px;
+}
+.gold{
+    padding-left: 1074px;
+}
+.verb{
+    padding-top: 60px;
+    padding-left:640px ;
+    width: 64px;
+height: 64px;
+}
+.gangstar{
+    padding-top: 26px;
+    padding-left: 140px;
+    position: absolute;
+    width: 305px;
+    height: 29px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.monstar{
+    padding-top: 26px;
+    padding-left: 1315px;
+    position: absolute;
+    width: 145px;
+    height: 29px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
