@@ -351,3 +351,34 @@ a :hover {
     padding-top: 150px;
     padding-left: 790px;
 }
+.number-seven{
+    width: 1320px;
+    height: 1163px;
+}
+.mango{
+
+    padding-top: 800px;
+    color: #F00;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.olive{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.lemon{
+    position: absolute;
+    height: 64px;
+    width: 896px;
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.60);
+    font-weight: 400;
+}
